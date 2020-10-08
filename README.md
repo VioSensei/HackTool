@@ -16,4 +16,5 @@ git klon https://github.com/VioSensei/HackTool
 
 
 
-pip2 yükleme -r gereksinimlerirements.txt
+gerekli modülleri yükleyiniz.
+
